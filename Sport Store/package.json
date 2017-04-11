@@ -1,0 +1,17 @@
+{
+  "name": "sportsstore",
+  "version": "1.0.0",
+  "description": "Sports store ",
+  "main": "index.js",
+  "dependencies": {
+    "jscs": "^3.0.7",
+    "express": "3.x" ,
+    "connect": "2.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

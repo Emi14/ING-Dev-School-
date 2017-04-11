@@ -1,0 +1,35 @@
+{
+  "name": "dependency",
+  "main": "dependency.js",
+  "homepage": "https://github.com/zzmp/dependency",
+  "authors": [
+    "zzmp <zmp@umich.edu>"
+  ],
+  "description": "External dependency loader for quick ng prototyping",
+  "keywords": [
+    "ng",
+    "dependency",
+    "angular",
+    "angularjs",
+    "module"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/lib",
+    "test",
+    "tests"
+  ],
+  "_release": "ca0c7de384",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ca0c7de384a8ee0376b545a2187273943fdc75c7"
+  },
+  "_source": "https://github.com/zzmp/dependency.git",
+  "_target": "*",
+  "_originalSource": "dependency",
+  "_direct": true
+}
